@@ -1,5 +1,3 @@
-# P1P4
-
 # P1P4 Bot
 
 Uma automação que visa facilitar e acelerar o processo de candidatura e recepção de novos voluntários para [opipa.org](https://opipa.org)
